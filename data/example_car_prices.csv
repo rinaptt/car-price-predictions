@@ -1,0 +1,6 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+Tata Indica Vista TDI LS,2015,240000,110000,Diesel,Individual,Manual,Second Owner,19.1 kmpl,1405 CC,70 bhp,135.4Nm@ 2500rpm,5.0
+Honda Jazz VX CVT,2019,750000,3100,Petrol,Individual,Automatic,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0
+Maruti Swift LXI Option,2014,400000,50000,Petrol,Individual,Manual,First Owner,20.4 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0
+Ford Figo Petrol Titanium,2010,229999,120000,Petrol,Individual,Manual,Third Owner,15.6 kmpl,1196 CC,70 bhp,102Nm@ 4000rpm,5.0
